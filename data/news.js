@@ -1,0 +1,32 @@
+export const newsItems = [
+  {
+    id: 1,
+    slug: 'pelatihan-python-2026',
+    title: 'Pelatihan Python HMIF 2026',
+    category: 'Kegiatan',
+    date: '2026-08-20',
+    image: '/images/placeholders/news.svg',
+    excerpt: 'Pelatihan Python menjadi salah satu kegiatan HMIF dalam mengembangkan kemampuan teknis mahasiswa Informatika.',
+    content: 'Pelatihan Python HMIF 2026 menjadi ruang belajar bersama bagi mahasiswa untuk memahami dasar pemrograman dan penerapannya.',
+  },
+  {
+    id: 2,
+    slug: 'prestasi-mahasiswa-informatika',
+    title: 'Prestasi Mahasiswa Informatika',
+    category: 'Prestasi',
+    date: '2026-08-15',
+    image: '/images/placeholders/news.svg',
+    excerpt: 'Mahasiswa Informatika kembali mencatat prestasi melalui kegiatan dan kompetisi di bidang teknologi.',
+    content: 'Prestasi ini menjadi bukti semangat mahasiswa Informatika untuk terus belajar, berkembang, dan menghasilkan karya terbaik.',
+  },
+  {
+    id: 3,
+    slug: 'kolaborasi-hmif-2026',
+    title: 'Kolaborasi HMIF 2026',
+    category: 'Organisasi',
+    date: '2026-08-10',
+    image: '/images/placeholders/news.svg',
+    excerpt: 'HMIF terus membangun ruang kolaborasi bersama mahasiswa, organisasi, dan mitra.',
+    content: 'Kolaborasi HMIF 2026 membuka ruang berbagi pengalaman, pengetahuan, dan peluang kerja sama yang bermanfaat bagi mahasiswa.',
+  },
+]

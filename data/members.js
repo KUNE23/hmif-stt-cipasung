@@ -1,0 +1,47 @@
+export const members = [
+  { id: 1, name: 'Abdul Ghofur Algipari', slug: 'abdul-ghofur-algipari', nim: '10223115', role: 'Ketua Himpunan', className: 'IF A', generation: '2023', divisionSlug: null, group: 'bpi', photo: '/images/placeholders/kahim.png' },
+  { id: 2, name: 'Mohammad Bisri Musthafa', slug: 'mohammad-bisri-musthafa', nim: '10223048', role: 'Wakil Himpunan', className: 'IF C', generation: '2023', divisionSlug: null, group: 'bpi', photo: '/images/placeholders/Frame.png' },
+  { id: 3, name: 'Diwan Nabil Mubarok', slug: 'diwan-nabil-mubarok', nim: '10224013', role: 'Sekretaris 1', className: 'IF B', generation: '2024', divisionSlug: null, group: 'bpi', photo: '/images/placeholders/seker1.png' },
+  { id: 4, name: 'Adha Fadhil Muhammad', slug: 'adha-fadhil-muhammad', nim: '10223020', role: 'Sekretaris 2', className: 'IF B', generation: '2023', divisionSlug: null, group: 'bpi', photo: '/images/placeholders/seker2.png' },
+  { id: 5, name: 'Elia Nurlatipah', slug: 'elia-nurlatipah', nim: '10224149', role: 'Bendahara', className: 'IF C', generation: '2024', divisionSlug: null, group: 'bpi', photo: '/images/placeholders/benda.png' },
+
+  { id: 101, name: 'Nabila Raudatul Nabawiah', slug: 'nabila-raudatul-nabawiah', nim: '10224123', role: 'Ketua Divisi', className: 'IF B', generation: '2024', divisionSlug: 'psdm', photo: '/images/members/Nabila Raudatul Nabawiah.png' },
+  { id: 102, name: 'Yuniasih', slug: 'yuniasih', nim: '10225093', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'psdm', photo: '/images/members/Yuniasih.png' },
+  { id: 103, name: 'Dalfa Fauziyatul Huda', slug: 'dalfa-fauziyatul-huda', nim: '10225084', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'psdm', photo: '/images/members/Dalfa Fauziyatul Huda.png' },
+  { id: 104, name: 'Adnan Giri Wisesa', slug: 'adnan-giri-wisesa', nim: '10225003', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'psdm', photo: '/images/members/Adnan Giri Wisesa.png' },
+  { id: 105, name: 'Rahmawati', slug: 'rahmawati', nim: '10225067', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'psdm', photo: '/images/members/Rahmawati.png' },
+
+  { id: 201, name: 'Yulia Sri Rahmawati', slug: 'yulia-sri-rahmawati', nim: '10224010', role: 'Ketua Divisi', className: 'IF B', generation: '2024', divisionSlug: 'minbat', photo: '/images/members/Yulia Sri Rahmawati.png' },
+  { id: 202, name: 'Alfiansyah Sibyanurrizki', slug: 'alfiansyah-sibyanurrizki', nim: '10225010', role: 'Anggota', className: 'IF A', generation: '2025', divisionSlug: 'minbat', photo: '/images/members/Alfiansyah Sibyanurrizki.png' },
+  { id: 203, name: 'Herma Inkanka', slug: 'herma-inkanka', nim: '10225101', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'minbat', photo: '/images/members/Herma Inkanka.png' },
+  { id: 204, name: 'Sopiyatussamrotul Kolbi', slug: 'sopiyatussamrotul-kolbi', nim: '10225086', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'minbat', photo: '/images/members/Sopiyatussamrotul Kolbi.png' },
+  { id: 205, name: 'Maman', slug: 'maman', nim: '10225093', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'minbat', photo: '/images/members/Maman Abdurahman.png' },
+  { id: 206, name: 'Annisa Widi Putri', slug: 'annisa-widi-putri', nim: '10225008', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'minbat', photo: '/images/members/Annisa Widi Putri.png' },
+
+  { id: 301, name: 'Ginanjar Husni Mubarok', slug: 'ginanjar-husni-mubarok', nim: '10224022', role: 'Ketua Divisi', className: 'IF B', generation: '2024', divisionSlug: 'minfo', photo: '/images/members/Ginanjar Husni Mubarok.png' },
+  { id: 302, name: 'Azmi Irfani Almuhajiri', slug: 'azmi-irfani-almuhajiri', nim: '10225023', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'minfo', photo: '/images/members/Azmi Irfani Almuhajiri.png' },
+  { id: 303, name: 'Yeri Septiani Fauziah', slug: 'yeri-septiani-fauziah', nim: '10225075', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'minfo', photo: '/images/members/Yeri Septiani Fauziah.png' },
+  { id: 304, name: 'Salma Alia Azka Ramadhani', slug: 'salma-alia-azka-ramadhani', nim: '10225080', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'minfo', photo: '/images/members/Salma Alia Azka Ramadhani.png' },
+  { id: 305, name: 'Muhammad Rizal Saibulwafa', slug: 'muhammad-rizal-saibulwafa', nim: '10225060', role: 'Anggota', className: 'IF A', generation: '2025', divisionSlug: 'minfo', photo: '/images/members/Muhammad Rizal Saibulwafa.png' },
+
+  { id: 401, name: 'Rozan Ahmad Fawwazi', slug: 'rozan-ahmad-fawwazi', nim: '10224027', role: 'Ketua Divisi', className: 'IF B', generation: '2024', divisionSlug: 'kaderisasi', photo: '/images/members/Rozan Ahmad Fawwazi.png' },
+  { id: 402, name: 'Pani Nurul Fauziah', slug: 'pani-nurul-fauziah', nim: '10224142', role: 'Anggota', className: 'IF C', generation: '2025', divisionSlug: 'kaderisasi', photo: '/images/members/Pani Nurul Fauziah.png' },
+  { id: 403, name: 'Sindy Syafaatu Zakiyah', slug: 'sindy-syafaatu-zakiyah', nim: '10224046', role: 'Anggota', className: 'IF A', generation: '2025', divisionSlug: 'kaderisasi', photo: '/images/members/Sindy Syafaatu Zakiyah.png' },
+  { id: 404, name: 'Sifa Nuraeni', slug: 'sifa-nuraeni', nim: '10225083', role: 'Anggota', className: 'IF C', generation: '2025', divisionSlug: 'kaderisasi', photo: '/images/members/Sifa Nuraeni.png' },
+  { id: 405, name: 'Ikhsan Muharam Fadil', slug: 'ikhsan-muharam-fadil', nim: '10225039', role: 'Anggota', className: 'IF C', generation: '2025', divisionSlug: 'kaderisasi', photo: '/images/members/Ikhsan Muharam Fadil.png' },
+  { id: 406, name: 'Asep Apid Almustopa', slug: 'asep-apid-almustopa', nim: '10225021', role: 'Anggota', className: 'IF A', generation: '2025', divisionSlug: 'kaderisasi', photo: '/images/members/Asep Apid Almustopa.png' },
+
+  { id: 501, name: 'Muhammad Faiz Abdullah Mukhtar', slug: 'muhammad-faiz-abdullah-mukhtar', nim: '10224054', role: 'Ketua Divisi', className: 'IF B', generation: '2024', divisionSlug: 'humas', photo: '/images/members/Muhammad Faiz Abdullah Mukhtar.png' },
+  { id: 502, name: 'Muhammad Azmi Syahlaa Nugraha', slug: 'muhammad-azmi-syahlaa-nugraha', nim: '10225066', role: 'Anggota', className: 'IF B', generation: '2025', divisionSlug: 'humas', photo: '/images/members/Muhammad Azmi Syahlaa Nugraha.png' },
+  { id: 503, name: 'Zahra Nurul Qolbi', slug: 'zahra-nurul-qolbi', nim: '10225094', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'humas', photo: '/images/members/Zahra Nurul Qolbi.png' },
+  { id: 504, name: 'Abdul Rojak', slug: 'abdul-rojak', nim: '10225002', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'humas', photo: '/images/members/Abdul Rojak.png' },
+  { id: 505, name: 'Fida Maulida Nurnahari', slug: 'fida-maulida-nurnahari', nim: '10225097', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'humas', photo: '/images/members/Fida Maulida Nurnahari.png' },
+  { id: 506, name: 'Reva Yanti', slug: 'reva-yanti', nim: '10224176', role: 'Anggota', className: 'IF C', generation: '2024', divisionSlug: 'humas', photo: '/images/members/Reva Yanti.png' },
+
+  { id: 601, name: 'Bangbang Darul Ilmi', slug: 'bangbang-darul-ilmi', nim: '10224003', role: 'Ketua Divisi', className: 'IF B', generation: '2024', divisionSlug: 'danus', photo: '/images/members/Bangbang Darul Ilmi.png' },
+  { id: 602, name: 'Zaky Ahmad Nurjaman', slug: 'zaky-ahmad-nurjaman', nim: '10224017', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'danus', photo: '/images/members/Zaky Ahmad Nurjaman.png' },
+  { id: 603, name: 'Dhika Zahira Prasetya', slug: 'dhika-zahira-prasetya', nim: '10225005', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'danus', photo: '/images/members/Dhika Zahira Prasetya.png' },
+  { id: 604, name: 'Alni Nofiani', slug: 'alni-nofiani', nim: '10225011', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'danus', photo: '/images/members/Alni Nofiani.png' },
+  { id: 605, name: 'Desi Sri Anjani', slug: 'desi-sri-anjani', nim: '10225100', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'danus', photo: '/images/members/Desi Sri Anjani.png' },
+  { id: 606, name: 'Ulan', slug: 'ulan', nim: '10225090', role: 'Anggota', className: 'IF', generation: '2025', divisionSlug: 'danus', photo: '/images/members/Ulan.png' },
+]
