@@ -5,9 +5,9 @@ const siteOrigin = computed(() => (config.public.siteUrl || 'https://hmif-stt-ci
 const siteUrl = computed(() => `${siteOrigin.value}/`)
 const siteTitle = 'HMIF STT Cipasung | Explore, Create, Innovate.'
 const siteDescription = 'Website resmi Himpunan Mahasiswa Informatika STT Cipasung periode 2026/2027. Kenali pengurus, divisi, program kerja, kegiatan, dan informasi terbaru HMIF STT Cipasung.'
-const ogImagePath = '/og/hmif-og.png'
+const ogImagePath = '/images/placeholders/logo.png'
 const ogImageUrl = computed(() => `${siteOrigin.value}${ogImagePath}`)
-const ogImageAlt = 'Preview website HMIF STT Cipasung'
+const ogImageAlt = 'Logo HMIF STT Cipasung'
 
 useSeoMeta({
   title: siteTitle,
@@ -23,8 +23,8 @@ useSeoMeta({
   ogLocale: 'id_ID',
   ogUrl: () => siteUrl.value,
   ogImage: () => ogImageUrl.value,
-  ogImageWidth: '1200',
-  ogImageHeight: '630',
+  ogImageWidth: '500',
+  ogImageHeight: '500',
   ogImageAlt,
   twitterCard: 'summary_large_image',
   twitterTitle: siteTitle,

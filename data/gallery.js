@@ -2,7 +2,7 @@ export const galleryItems = [
   {
     id: 1,
     title: 'Undangan Diesnatalis HMSI UNIGAL',
-    date: '2026-08-10',
+    date: '2026-06-06',
     category: 'Pelatihan',
     image: '/images/gallery/HMSI UNIGAL.jpeg',
     alt: 'Undangan Diesnatalis HMSI UNIGAL',
@@ -11,7 +11,7 @@ export const galleryItems = [
   {
     id: 2,
     title: 'MUSYAWARAH PERMIKOMNAS WILAYAH 5 JAWABAT',
-    date: '2026-08-15',
+    date: '2026-07-29',
     category: 'Workshop',
     image: '/images/gallery/MUSWIL.jpeg',
     alt: 'MUSYAWARAH PERMIKOMNAS WILAYAH 5 JAWABAT',
@@ -38,7 +38,7 @@ export const galleryItems = [
   {
     id: 5,
     title: 'Undangan Diesnatalis Polindra Rpl',
-    date: '2026-09-12',
+    date: '2026-05-15',
     category: 'Seminar',
     image: '/images/gallery/POLINDRA.jpeg',
     alt: 'undangan diesnatalis Polindra Rpl',
