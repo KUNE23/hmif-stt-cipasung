@@ -12,7 +12,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   runtimeConfig: {
     public: {
-      siteUrl: process.env.NUXT_PUBLIC_SITE_URL || 'http://localhost:3000',
+      siteUrl: process.env.NUXT_PUBLIC_SITE_URL || 'https://hmif-stt-cipasung.vercel.app',
     },
   },
   app: {
