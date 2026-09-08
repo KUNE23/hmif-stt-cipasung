@@ -48,6 +48,76 @@ export const programs = [
     ]
   },
   {
+    "id": 17,
+    "slug": "komika",
+    "divisionSlug": "psdm",
+    "title": "KOMIKA (Kajian Offline/Online Mahasiswa Informatika)",
+    "category": "",
+    "description": "Kajian offline atau online membahas topik terkini atau peminatan di bidang informatika maupun di luar bidang informatika.",
+    "objectives": [
+      "Meningkatkan analisis kritis dan diskusi.",
+      "Memperluas wawasan terkini tentang IT.",
+      "Menggali Minat Karir IT."
+    ],
+    "targets": [
+      "Pengurus HMIF & Seluruh mahasiswa IF"
+    ],
+    "period": "3 kali dalam satu periode kepengurusan",
+    "note": "",
+    "place": "Kampus STT Cipasung",
+    "budget": "-",
+    "fundingSource": "-",
+    "personInCharge": [
+      "Rahmawati (Div Psdm)"
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "tos-time-to-orientations-and-solidarity",
+    "divisionSlug": "psdm",
+    "title": "TOS (Time to Orientations and Solidarity)",
+    "category": "",
+    "description": "Kegiatan pengenalan untuk menjalin chemistry antara para pengurus HMIF seperti ngobrol perkembangan perbulannya dari tiap divisi sambil ngaliwet, jajan, dan sebagainya.",
+    "objectives": [
+      "Untuk mempererat hubungan tiap pengurus."
+    ],
+    "targets": [
+      "Pengurus HMIF"
+    ],
+    "period": "1x 2 bulan",
+    "note": "",
+    "place": "Mabes HMIF / Di luar",
+    "budget": "",
+    "fundingSource": "",
+    "personInCharge": [
+      "Dalfa Fauziyatul Huda (Div Psdm)"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "hmif-edu",
+    "divisionSlug": "psdm",
+    "title": "HMIF EDU",
+    "category": "",
+    "description": "Program edukasi eksternal atau field trip edukatif (seperti ke sekolah-sekolah ataupun yang lainnya) untuk memberikan pengalaman belajar langsung di lapangan.",
+    "objectives": [
+      "Implementasi Ilmu.",
+      "Membangun Empati Sosial.",
+      "Bukti Pengabdian Mahasiswa."
+    ],
+    "targets": [
+      "Masyarakat sekitar yang membutuhkan"
+    ],
+    "period": "1 kali dalam satu periode kepengurusan",
+    "note": "",
+    "place": "Sekolah yang akses teknologinya terbatas",
+    "budget": "-",
+    "fundingSource": "-",
+    "personInCharge": [
+      "Adnan Giri Wisesa (Div Psdm)"
+    ]
+  },
+  {
     "id": 3,
     "slug": "website-portfolio-pengurus",
     "divisionSlug": "minbat",

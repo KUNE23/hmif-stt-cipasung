@@ -9,7 +9,7 @@ export const collaborationData = {
   },
   secondaryButton: {
     label: 'Lihat Instagram',
-    href: 'https://instagram.com/',
+    href: 'https://www.instagram.com/hmif_sttcipasung/',
   },
   mascot: '/images/mascot/mascot-hmif.png',
   mascotAlt: 'Maskot robot HMIF STT Cipasung melambaikan tangan',

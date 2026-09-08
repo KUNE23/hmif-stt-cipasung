@@ -16,7 +16,7 @@ export const footerData = {
     'Periode 2026/2027',
   ],
   socialLinks: [
-    { name: 'Instagram', href: 'https://instagram.com/', icon: 'Instagram' },
+    { name: 'Instagram', href: 'https://www.instagram.com/hmif_sttcipasung/', icon: 'Instagram' },
   ],
   copyright: '© 2026/2027 HMIF STT Cipasung. Seluruh hak cipta dilindungi.',
 }

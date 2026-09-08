@@ -8,7 +8,7 @@ export const videoProfile = {
   tags: ['Organisasi Mahasiswa', 'Kolaborasi', 'Inovasi'],
   buttonText: 'Tonton Video',
   videoTitle: 'Video Profile HMIF 2026',
-  thumbnail: '/images/video/video-profile-thumbnail.png',
+  thumbnail: '/images/video/video-profile-thumbnail.jpeg',
   videoUrl: 'https://www.youtube-nocookie.com/embed/4Ykvt5LZUnA?autoplay=1&rel=0',
 }
 
