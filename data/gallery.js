@@ -53,4 +53,13 @@ export const galleryItems = [
     alt: 'Dokumentasi rapat kerja HMIF',
     size: 'small',
   },
+  {
+    id: 7,
+    title: 'Orientasi Jurusan Himpunan Mahasiswa Informatika',
+    date: '2026-09-18',
+    category: 'Organisasi',
+    image: '/images/gallery/Osjur.jpeg',
+    alt: 'Dokumentasi OSJUR HMIF',
+    size: 'small',
+  },
 ]

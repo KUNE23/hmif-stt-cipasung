@@ -174,13 +174,13 @@ onBeforeUnmount(() => {
           </p>
 
           <h1
-            v-motion="headingMotion"
-            class="mt-6 break-words text-[clamp(2.75rem,15vw,3.7rem)] font-bold leading-[0.9] tracking-tight text-[#08244c] sm:mt-7 sm:text-[clamp(3.4rem,7.2vw,6.4rem)] sm:leading-[0.83] lg:text-[clamp(4.4rem,5.4vw,6rem)]"
-          >
-            <span class="block">Excellence,</span>
-            <span class="block">Innovation,</span>
-            <span class="block text-[#08a9c5]">Integrity.</span>
-          </h1>
+          v-motion="headingMotion"
+          class="mt-6 text-[clamp(2.75rem,15vw,3.7rem)] font-bold leading-[0.9] tracking-tight text-[#08244c] sm:mt-7 sm:text-[clamp(3.4rem,7.2vw,6.4rem)] sm:leading-[0.83] lg:text-[clamp(4.4rem,5.4vw,6rem)]"
+        >
+          <span class="block whitespace-nowrap">Excellence,</span>
+          <span class="block whitespace-nowrap">Innovation,</span>
+          <span class="block whitespace-nowrap text-[#08a9c5]">Integrity.</span>
+        </h1>
 
           <p
             v-motion
